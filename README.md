@@ -1,6 +1,7 @@
 # *Logical-Programming*
 
 ## *C Programming*
+
 * [Printf as a variable](https://github.com/darsigangothri06/Logical-Programming/blob/main/Using_printf_as_var.c)
 * [Scanf as a variable](https://github.com/darsigangothri06/Logical-Programming/blob/main/Using_scanf_as_var.c)
 * [Main as a variable](https://github.com/darsigangothri06/Logical-Programming/blob/main/Using_main_as_var.c)
